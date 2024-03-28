@@ -88,11 +88,15 @@ I am currently honing my skills through coursework, practical labs, and real-wor
 
 ## Certifications
 
-- Introduction to Cybersecurity - Cisco
-- CCNA: Introduction to Networks
-- CCNA: Switching, Routing, and Wireless Essentials
+<img src="https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_100_100/0/1688482473854/cisco_logo?e=1719446400&v=beta&t=QNdRwL9zSUiNSwrDdjS1E2NBsYPBRGSHngZPPTq3rYI" alt="Cisco Logo" width="50" height="48" style="vertical-align: middle;"> [Introduction to Cybersecurity - Cisco](https://www.credly.com/badges/ad1476ff-5454-4653-93c7-092fca2c55ec/linked_in_profile)
+
+<img src="https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_100_100/0/1688482473854/cisco_logo?e=1719446400&v=beta&t=QNdRwL9zSUiNSwrDdjS1E2NBsYPBRGSHngZPPTq3rYI" alt="Cisco Logo" width="50" height="48" style="vertical-align: middle;"> [CCNA: Introduction to Networks](https://www.credly.com/badges/133b2df3-e85d-4db7-b5cb-f207d0fe4419/linked_in_profile)
+
+<img src="https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_100_100/0/1688482473854/cisco_logo?e=1719446400&v=beta&t=QNdRwL9zSUiNSwrDdjS1E2NBsYPBRGSHngZPPTq3rYI" alt="Cisco Logo" width="50" height="48" style="vertical-align: middle;"> [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/954c18e2-1c71-4668-9bb0-55199c8d3392/linked_in_profile)
+
+
 
 ## Contact Me
 
-- Email: tylermealing1@aol.com
-- LinkedIn: https://www.linkedin.com/in/tyler-mealing-a3a14623b/
+- Email: [tylermealing1@aol.com](mailto:tylermealing1@aol.com)
+- LinkedIn: [Tyler Mealing](https://www.linkedin.com/in/tyler-mealing-a3a14623b/)

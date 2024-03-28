@@ -1,4 +1,4 @@
-# Network Engineering Student
+# Network Engineering Student 🌐
 
 ## About Me
 
